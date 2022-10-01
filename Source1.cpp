@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 #include <iostream>
 
 using namespace std;
